@@ -1,0 +1,6 @@
+.qmake.stash
+DeviceDiscovery.pro.user
+build-DeviceDiscovery-Desktop_Qt_5_6_1_MinGW_32_bit-Debug/
+build-DeviceDiscovery-Desktop_Qt_5_6_1_MinGW_32_bit-Release/
+package/
+package_5_6_1/
